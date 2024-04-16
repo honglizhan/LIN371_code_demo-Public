@@ -1,5 +1,4 @@
-# LIN371_code_demo-Public
-Code demo for LIN 371, UT Austin
+# Code demo for LIN 371, UT Austin
 
 **PyTorch Preliminary**
 * nn_sentiment: transforming from Keras to PyTorch
